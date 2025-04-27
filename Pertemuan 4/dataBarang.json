@@ -1,0 +1,32 @@
+[
+    {
+        "id_barang": 1,
+        "nama_barang": "Televisi",
+        "descripsi_barang": "Lebar 20 inch",
+        "kategori_barang": "Elektronik" 
+    },
+    {
+        "id_barang": 2,
+        "nama_barang": "Handphone",
+        "descripsi_barang": "iphone 12",
+        "kategori_barang": "Elektronik" 
+    },
+    {
+        "id_barang": 3,
+        "nama_barang": "Jam tangan",
+        "descripsi_barang": "Gold",
+        "kategori_barang": "Accesoris" 
+    },
+    {
+        "id_barang": 4,
+        "nama_barang": "Tas",
+        "descripsi_barang": "Tali bisa diadjust",
+        "kategori_barang": "Accesoris" 
+    },
+    {
+        "id_barang": 5,
+        "nama_barang": "Lipgloss",
+        "descripsi_barang": "Glosy",
+        "kategori_barang": "Make up" 
+    }
+]
