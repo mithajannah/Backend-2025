@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Pensil",
+    "jumlahBarang": 100,
+    "terjual": 30,
+    "sisa": 70,
+    "updateAt": "2025-05-02T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "namaBarang": "Buku Tulis",
+    "jumlahBarang": 200,
+    "terjual": 80,
+    "sisa": 120,
+    "updateAt": "2025-05-02T08:05:00Z"
+  },
+  {
+    "id": 3,
+    "namaBarang": "Penghapus",
+    "jumlahBarang": 150,
+    "terjual": 60,
+    "sisa": 90,
+    "updateAt": "2025-05-02T08:10:00Z"
+  },
+  {
+    "id": 4
+  }
+]
