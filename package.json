@@ -1,14 +1,18 @@
 {
-  "name": "pertemuan-3",
+  "name": "pertemuan-13",
   "version": "1.0.0",
-  "description": "Backend Pertemuan 3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mitha",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "@supabase/supabase-js": "^2.50.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0"
   }
 }
